@@ -1,0 +1,15 @@
+Package: eventR
+Title: What the Package Does (One Line, Title Case)
+Version: 0.0.0.1
+Authors@R: 
+    person(given = "Darya",
+           family = "Vanichkina",
+           role = c("aut", "cre"),
+           email = "d.vanichkina@gmail.com",
+           comment = c(ORCID = "0000-0002-0406-164X"))
+Description: What the package does (one paragraph).
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 6.1.1
